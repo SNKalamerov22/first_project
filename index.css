@@ -1,0 +1,44 @@
+body{
+    background-color: #0D84CF;
+}
+.C{
+    color: blue;
+}
+table, th, td,tr {
+    border:1px solid black;
+  }
+#paragraph1{
+    color: aqua;
+}
+#paragraph2{
+    color: brown;
+}
+.A{
+
+}
+.B{
+
+}
+.D{
+
+}
+.navbar {
+    width: 100vw;
+    height: 10vh;
+    background-color: #0D84CF;
+    color: black;
+    position: top;
+    top: 0;
+    left: 0;
+ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+ 
+    padding-left: 0px;
+    padding-right: 0px
+}
+#text{
+    color: black;
+}
